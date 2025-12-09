@@ -93,7 +93,7 @@ config/secrets.json
 outputs/
 results/
 checkpoints/
-models/
+
 
 # Cache directories
 .cache/
